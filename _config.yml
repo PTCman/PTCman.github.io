@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: PTCman BLOG
+description: Thank you for coming!
+author: PTCman
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: Pivottocoding@gmail.com
 
 plugins:
   - jekyll-seo-tag
