@@ -3,6 +3,7 @@ description: Thank you for coming!
 author: PTCman
 avatar: /logo.png
 email: Pivottocoding@gmail.com
+skin: midnight
 
 plugins:
   - jekyll-seo-tag
@@ -41,3 +42,4 @@ social:
     - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
+
