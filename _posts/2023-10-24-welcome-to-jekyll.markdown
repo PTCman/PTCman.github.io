@@ -1,9 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-10-24 16:14:50 +0900
+title:  "첫블로그 게시글"
+date:   2023-10-25 10:01:00 +0900
 categories: jekyll update
 ---
+#Heading1
+---
+>안녕하세요
+
+*하이용
+Click[here](naver.com)
+|1행|2행|
+|:--:|:--:|
+|안녕하세용|반가워용|
+
+<!--Code-->
+`int main(){
+  return 0;
+}`
+
+```java
+int main(){
+  return 0;
+}
+```
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
