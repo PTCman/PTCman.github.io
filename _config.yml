@@ -3,7 +3,7 @@ description: Thank you for coming!
 author: PTCman
 avatar: /logo.png
 email: Pivottocoding@gmail.com
-skin: Daylight
+skin: daylight
 
 plugins:
   - jekyll-seo-tag
